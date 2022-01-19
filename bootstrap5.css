@@ -1,0 +1,30 @@
+.jumbotron {
+  padding: 5rem 0 0;
+  background-color: lightpink;
+}
+
+section {
+  padding-top: 4rem;
+}
+.ava {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+
+#projects {
+  background-color: lightpink;
+}
+
+.card {
+  height: 18rem;
+}
+
+footer {
+  background-color: lightpink;
+}
+
+footer p,
+a {
+  color: white;
+}
